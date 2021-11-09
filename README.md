@@ -7,7 +7,7 @@ from Kaggle website: https://www.kaggle.com/fahd09/riyadh-restaurants-20k
 - Number of rows: 19361 
 - Number of columns: 11
 ## Columns description:
-Each row is a restaurant. Columns are as follows:
+Each row is a place(restaurant/cafe). Columns are as follows:
 
 - name: The name of the restaurant. Some names are only available in Arabic.
 - categories: The list of categories (in English) separated by a comma.
@@ -32,7 +32,7 @@ Each row is a restaurant. Columns are as follows:
 - Libraries: 
 pandas, numpy, matplotlib
 - Softwares: 
-Visual Code, Jupyter, GitHub
+VSCode, Jupyter, GitHub
 ## MVP goals:
 - Answer all the questions.
 - Explore the good places to visit.
