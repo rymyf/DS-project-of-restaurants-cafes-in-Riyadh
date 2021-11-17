@@ -37,6 +37,3 @@ VSCode, Jupyter, GitHub
 - Answer all the questions.
 - Explore the good places to visit.
 - Find out what people like.
-
-### Note:
-The dataset from kaggle was so dirty, i will upload the cleaned dataset as soon as possible.
